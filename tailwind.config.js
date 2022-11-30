@@ -1,8 +1,9 @@
 module.exports = {
   content: ["./*.html"],
+  darkMode: "class",
   theme: {
     extend: {
-      color: {
+      colors: {
         darkBlue: "hsl(217,28%,15%)",
         darkBlue1: "hsl(278,28%,13%)",
         darkBlue2: "hsl(216,53%,9%)",
